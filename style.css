@@ -134,7 +134,7 @@ body {
 
 .hero {
     min-height: 100vh;
-    background-image: url('img/yaka.jpg'); /* <-- Change this to your image */
+    background-image: url('yaka.jpg'); /* <-- Change this to your image */
     background-size: cover;
     background-position: center;
     display: flex;
@@ -190,15 +190,15 @@ h1 {
 }
 
 .parallax-1 {
-    background-image: url(img/rbnew.jpg); /* <-- Change this */
+    background-image: url(rbnew.jpg); /* <-- Change this */
 }
 
 .parallax-2 {
-    background-image: url('img/yaknew.jpg'); /* <-- Change this */
+    background-image: url('yaknew.jpg'); /* <-- Change this */
 }
 
 .parallax-3 {
-    background-image: url('img/yonew.jpg'); /* <-- Change this */
+    background-image: url('yonew.jpg'); /* <-- Change this */
 }
 
 /* ============================================
