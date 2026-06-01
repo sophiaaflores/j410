@@ -395,12 +395,12 @@ blockquote {
     width: 100%;
 }
 
-video {
+.video-wrapper iframe {
     width: 100%;
-    height: auto;
+    height: 600px;
     display: block;
-    background-color: #000;
 }
+
 
 /* ============================================
    INFOGRAPHIC (Optional section)
